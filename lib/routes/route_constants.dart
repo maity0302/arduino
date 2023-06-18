@@ -1,0 +1,11 @@
+// const String onbordingScreenRoute = "onbording";
+const String logInScreenRoute = "login";
+// const String signUpScreenRoute = "signup";
+const String deviceScreenRoute = "device";
+const String speedScreenRoute = "speed";
+const String discoverScreenRoute = "discover";
+const String flameScreenRoute = "flame";
+const String settingScreenRoute = "setting";
+const String intensityScreenRoute = "intensity";
+const String notificationScreenRoute = "notifications";
+const String entryPointScreenRoute = "entry_point";
